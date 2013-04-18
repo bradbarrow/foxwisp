@@ -29,5 +29,19 @@
   },
   "engines": {
     "node": ">=0.8.0"
-  }
+  },
+  "description": "foxwisp =======",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Haizyfox/foxwisp.git"
+  },
+  "author": "",
+  "license": "BSD"
 }

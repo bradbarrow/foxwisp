@@ -2,7 +2,7 @@
   "name": "foxwisp",
   "version": "0.0.0",
   "dependencies": {
-    "express" : "2.x"
+    "express" : "3.2.x"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
